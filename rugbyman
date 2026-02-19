@@ -1,0 +1,16 @@
+rugbyman-site/
+│ index.html
+│ academie.html
+│ arbitrage.html
+│ exercices.html
+│ soutien-scolaire.html
+│ performance.html
+│ nutrition.html
+│ contact.html
+│ mentions-legales.html
+│
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── main.js
